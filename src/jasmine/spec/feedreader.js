@@ -51,7 +51,6 @@ $(function() {
         });
     });
 
-
     /* TODO: Write a new test suite named "The menu" */
     describe('The menu', function() {
         var menuHidden = document.getElementsByClassName('menu-hidden');
